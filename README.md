@@ -28,12 +28,12 @@
 ---
 
 ## 📌 Projeto em destaque
-🥕🍉 **Gerenciador de Estoque de HortiFruts - HortiFácil**
-O sistema permite o controle de estoque com mínimo e máximo, registro de movimentações, geração de relatório e criação e manipulação de Pedidos de Compra.
+🥕🍉 **Gerenciador de Estoque de HortiFruts - HortiFácil**<br>
+O sistema permite o controle de estoque com mínimo e máximo, registro de movimentações, geração de relatório e criação e manipulação de Pedidos de Compra.<br>
 O projeto contem uma estruturação de componentes reutilizáveis, consumo de APIs com validação de dados, desenvolvimento de interfaces responsivas para diferentes tamanhos de tela, controle de estados e filtros dinâmicos, geração de relatórios em PDF e aplicação de boas práticas de código com organização de projeto.
 
 ## 🔎 Contato
-✉️ Email: naeljunior07@gmail.com
+✉️ Email: naeljunior07@gmail.com<br>
 💼 Linkedin: https://www.linkedin.com/in/njunior93/
 
 
