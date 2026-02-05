@@ -3,7 +3,7 @@
 👩‍💻 Sou formado em **Sistemas de Informação**. Tenho foco em **Desenvolvimento Front-End** e coloco em prática meus conhecimentos por meio de projetos pessoais. No meu portfólio, é possível acompanhar minha trajetória, aprendizados e evolução como desenvolvedor.
 
 🔗 **Porfolio:**  
-👉 (Repositório)[https://github.com/njunior93/portfoliojunior]
+👉 [Repositório](https://github.com/njunior93/portfoliojunior)
 
 ---
 
@@ -30,7 +30,9 @@
 ## 📌 Projeto em destaque
 🥕🍉 **Gerenciador de Estoque de HortiFruts - HortiFácil**<br>
 O sistema permite o controle de estoque com mínimo e máximo, registro de movimentações, geração de relatório e criação e manipulação de Pedidos de Compra.<br>
-- O projeto contem uma estruturação de componentes reutilizáveis, consumo de APIs com validação de dados, desenvolvimento de interfaces responsivas para diferentes tamanhos de tela, controle de estados e filtros dinâmicos, geração de relatórios em PDF e aplicação de boas práticas de código com organização de projeto.
+- O projeto contem uma estruturação de componentes reutilizáveis, consumo de APIs com validação de dados, desenvolvimento de interfaces responsivas para diferentes tamanhos de tela, controle de estados e filtros dinâmicos, geração de relatórios em PDF e aplicação de boas práticas de código com organização de projeto.<br>
+
+> ⚠️ O projeto ainda está em desenvolvimento. Algumas funcionalidades estão sendo ajustadas e melhorias estão em andamento.
 
 🔗 **HortiFácil:**  
 👉 [Repositório](https://github.com/njunior93/horti_facil)
