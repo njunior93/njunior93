@@ -33,7 +33,7 @@ O sistema permite o controle de estoque com mínimo e máximo, registro de movim
 O projeto contem uma estruturação de componentes reutilizáveis, consumo de APIs com validação de dados, desenvolvimento de interfaces responsivas para diferentes tamanhos de tela, controle de estados e filtros dinâmicos, geração de relatórios em PDF e aplicação de boas práticas de código com organização de projeto.
 
 🔗 **HortFácil:**  
-👉 https://horti-facil.vercel.app/
+👉 [Repositorio](https://github.com/njunior93/horti_facil)
 
 ---
 
