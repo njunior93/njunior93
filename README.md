@@ -5,9 +5,17 @@
 🔗 **Porfolio:**  
 👉 https://portfoliojunior.vercel.app/
 
---
+---
 
-## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/4e9eb879-4df1-4994-a05a-b07a7d2550eb" />
+## 🚀 Linguagens & Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
+
+ 
 
 
