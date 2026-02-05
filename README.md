@@ -7,6 +7,7 @@
 
 --
 
-## <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/946d5146-45bb-4e62-bb3b-2f9c1c32b2a5" />
+## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/4e9eb879-4df1-4994-a05a-b07a7d2550eb" />
+
 
 
