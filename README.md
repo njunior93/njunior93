@@ -5,3 +5,8 @@
 🔗 **Porfolio:**  
 👉 https://portfoliojunior.vercel.app/
 
+--
+
+## <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/946d5146-45bb-4e62-bb3b-2f9c1c32b2a5" />
+
+
