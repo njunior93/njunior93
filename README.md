@@ -25,7 +25,17 @@
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Projeto em destaque
+---
+
+## 📌 Projeto em destaque
+🥕🍉 *Gerenciador de Estoque de HortiFruts - HortiFácil*
+O sistema permite o controle de estoque com mínimo e máximo, registro de movimentações, geração de relatório e criação e manipulação de Pedidos de Compra.
+O projeto contem uma estruturação de componentes reutilizáveis, consumo de APIs com validação de dados, desenvolvimento de interfaces responsivas para diferentes tamanhos de tela, controle de estados e filtros dinâmicos, geração de relatórios em PDF e aplicação de boas práticas de código com organização de projeto.
+
+## 🔎 Contato
+✉️ Email: naeljunior07@gmail.com
+💼 Linkedin: https://www.linkedin.com/in/njunior93/
+
 
 
 
