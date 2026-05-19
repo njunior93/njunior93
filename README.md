@@ -27,7 +27,18 @@
 
 ---
 
-## 📌 Projeto em destaque
+## 📌 Projetos em destaque
+
+📔 **Sistema de Agendamento Online — Agenda Fácil**<br>
+O sistema foi desenvolvido para facilitar o gerenciamento de agendamentos, permitindo cadastro de clientes, controle de horários disponíveis, de forma prática e intuitiva..<br>
+- O projeto conta com uma estrutura Full Stack utilizando React, TypeScript, Node.js e banco de dados, além de consumo de APIs, validação de dados, componentes reutilizáveis, responsividade para diferentes tamanhos de tela e aplicação de boas práticas de desenvolvimento e organização de código.<br>
+
+> ⚠️ O projeto foi criado com foco em fortalecer meus conhecimentos como desenvolvedor Full Stack. Algumas funcionalidades ainda estão em evolução e melhorias continuam sendo implementadas.
+
+🔗 **Agenda Fácil:**  
+👉 [Repositório](https://github.com/njunior93/agenda-facil-front_end)
+
+
 🥕🍉 **Gerenciador de Estoque de HortiFruts - HortiFácil**<br>
 O sistema permite o controle de estoque com mínimo e máximo, registro de movimentações, geração de relatório e criação e manipulação de Pedidos de Compra.<br>
 - O projeto contem uma estruturação de componentes reutilizáveis, consumo de APIs com validação de dados, desenvolvimento de interfaces responsivas para diferentes tamanhos de tela, controle de estados e filtros dinâmicos, geração de relatórios em PDF e aplicação de boas práticas de código com organização de projeto.<br>
