@@ -29,7 +29,7 @@
 
 ## 📌 Projetos em destaque
 
-💬  **Sistema de Análise de Dados com IA — NerdBI**
+💬  **Sistema de Análise de Dados com IA — NerdBI**<br>
 O sistema foi desenvolvido para permitir que o usuário converse com seu próprio banco de dados em português, conectando sua connection string e recebendo respostas em linguagem natural com o SQL executado.<br>
 - O projeto conta com uma estrutura Full Stack utilizando React, TypeScript, NestJS e PostgreSQL, além de integração com agente de IA (Llama 3.3 via Groq), autenticação JWT, consumo de APIs, validação de dados, componentes reutilizáveis, responsividade para diferentes tamanhos de tela e aplicação de boas práticas de desenvolvimento e organização de código.<br>
 
