@@ -29,6 +29,15 @@
 
 ## 📌 Projetos em destaque
 
+💬  **Sistema de Análise de Dados com IA — NerdBI**
+O sistema foi desenvolvido para permitir que o usuário converse com seu próprio banco de dados em português, conectando sua connection string e recebendo respostas em linguagem natural com o SQL executado.<br>
+- O projeto conta com uma estrutura Full Stack utilizando React, TypeScript, NestJS e PostgreSQL, além de integração com agente de IA (Llama 3.3 via Groq), autenticação JWT, consumo de APIs, validação de dados, componentes reutilizáveis, responsividade para diferentes tamanhos de tela e aplicação de boas práticas de desenvolvimento e organização de código.<br>
+
+> ⚠️ O projeto foi criado com foco em fortalecer meus conhecimentos como desenvolvedor Full Stack, explorando integração com IA. Por usar um modelo gratuito, algumas respostas podem variar e o sistema exige que a connection string do banco use a porta de transaction pooling (6543). Algumas funcionalidades ainda estão em evolução e melhorias continuam sendo implementadas.
+
+NerdBI:
+🔗 [Repositório](https://github.com/njunior93/nerdbi_frontend)
+
 📔 **Sistema de Agendamento Online — Agenda Fácil**<br>
 O sistema foi desenvolvido para facilitar o gerenciamento de agendamentos, permitindo cadastro de clientes, controle de horários disponíveis, de forma prática e intuitiva..<br>
 - O projeto conta com uma estrutura Full Stack utilizando React, TypeScript, Node.js e banco de dados, além de consumo de APIs, validação de dados, componentes reutilizáveis, responsividade para diferentes tamanhos de tela e aplicação de boas práticas de desenvolvimento e organização de código.<br>
