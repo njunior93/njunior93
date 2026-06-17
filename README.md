@@ -38,6 +38,8 @@ O sistema foi desenvolvido para permitir que o usuário converse com seu própri
 🔗 **NerdBI:**<br>
 👉 [Repositório](https://github.com/njunior93/nerdbi_frontend)
 
+<br>
+
 📔 **Sistema de Agendamento Online — Agenda Fácil**<br>
 O sistema foi desenvolvido para facilitar o gerenciamento de agendamentos, permitindo cadastro de clientes, controle de horários disponíveis, de forma prática e intuitiva..<br>
 - O projeto conta com uma estrutura Full Stack utilizando React, TypeScript, Node.js e banco de dados, além de consumo de APIs, validação de dados, componentes reutilizáveis, responsividade para diferentes tamanhos de tela e aplicação de boas práticas de desenvolvimento e organização de código.<br>
@@ -47,6 +49,7 @@ O sistema foi desenvolvido para facilitar o gerenciamento de agendamentos, permi
 🔗 **Agenda Fácil:**  
 👉 [Repositório](https://github.com/njunior93/agenda-facil-front_end)
 
+<br>
 
 🥕🍉 **Gerenciador de Estoque de HortiFruts - HortiFácil**<br>
 O sistema permite o controle de estoque com mínimo e máximo, registro de movimentações, geração de relatório e criação e manipulação de Pedidos de Compra.<br>
