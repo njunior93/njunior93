@@ -35,7 +35,7 @@ O sistema foi desenvolvido para permitir que o usuário converse com seu própri
 
 > ⚠️ O projeto foi criado com foco em fortalecer meus conhecimentos como desenvolvedor Full Stack, explorando integração com IA. Por usar um modelo gratuito, algumas respostas podem variar e o sistema exige que a connection string do banco use a porta de transaction pooling (6543). Algumas funcionalidades ainda estão em evolução e melhorias continuam sendo implementadas.
 
-🔗 **NerdBI:**
+🔗 **NerdBI:**<br>
 👉 [Repositório](https://github.com/njunior93/nerdbi_frontend)
 
 📔 **Sistema de Agendamento Online — Agenda Fácil**<br>
